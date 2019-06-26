@@ -1,0 +1,461 @@
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+isApp
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+isApp
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+fileName.endsWith(ext)
+isApp
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+fileName.endsWith(ext)
+isApp
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+fileName.endsWith(ext)
+isApp = true;
+break;
+isApp
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+fileName.endsWith(ext)
+isApp = true;
+break;
+isApp
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+isApp
+result.add(fileName);
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+isApp
+result.add(fileName);
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+fileName.endsWith(ext)
+isApp
+result.add(fileName);
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+fileName.endsWith(ext)
+isApp
+result.add(fileName);
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+fileName.endsWith(ext)
+isApp = true;
+break;
+isApp
+result.add(fileName);
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String fileName = file.getName();
+boolean isApp = false;
+appExtensions
+fileName.endsWith(ext)
+isApp = true;
+break;
+isApp
+result.add(fileName);
+return result.toArray(new String[] {});
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = examplesFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder = jbossHome + "/examples/";
+String folder = null;
+directory.equals("examples")
+folder = deployFolder;
+ArrayList<String> result = new ArrayList<String>();
+File root = new File(folder);
+File[] files = root.listFiles();
+q < files.length
+File file = files[q];
+String serverHome = System.getProperty("jboss.server.home.dir");
+String jbossHome = System.getProperty("jboss.home.dir");
+String deployFolder = serverHome + "/deploy/";
+String examplesFolder

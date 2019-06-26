@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/Thread/Solution.java" line="26" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a95b98-c686-4393-a7ef-49a0b6d72991" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/process_GITHUB/ReadDifferFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="method#getADDandDellist#0;class#ReadDifferFile#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/process_GITHUB/SliceGen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3344">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/visitor/VoidVisitorAdapter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-228">
+              <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>https://github.com/eclipse/eclipse.platform.team/commit/36f16f9018c7db7a8cc2f8f2c084d80b0c3f70bd</find>
+      <find>d2b6f58f0c68427f8a4d79a136b897dd2d9e2865.java</find>
+      <find>9dc91164c1d87d2e89b4d5acde1aa3850c6e9e29.java</find>
+      <find>5c8a7a0a6b544a2f5ba6a11f249fdf90f573a267</find>
+      <find>try</find>
+      <find>statement</find>
+      <find>condition</find>
+      <find>length&lt;40</find>
+      <find>blockcomment</find>
+      <find>comment</find>
+      <find>getcomm</find>
+      <find>ifst</find>
+      <find>if</find>
+      <find>ifs</find>
+      <find>remo</find>
+      <find>LineComment</find>
+      <find>------------------------------</find>
+      <find>prin</find>
+      <find>bad</find>
+      <find>if (recvResult == SOCKET_ERROR || recvResult == 0)</find>
+      <find>print</find>
+      <find>fors</find>
+      <find>ebc886c857a702d788c2bdfb9e0b3d20746ad745</find>
+      <find>findall</find>
+      <find>copy</find>
+      <find>fenci</find>
+      <find>nodelis</find>
+      <find>opp</find>
+      <find>return</find>
+      <find>adds</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Thread/Fan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_GITHUB/AST_extract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_GITHUB/TestPrint.java" />
+        <option value="$PROJECT_DIR$/src/main/Thread/Static.java" />
+        <option value="$PROJECT_DIR$/src/main/Thread/String.java" />
+        <option value="$PROJECT_DIR$/src/main/Thread/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/Math.java" />
+        <option value="$PROJECT_DIR$/src/main/Thread/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/Thread/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/Thread/Math.java" />
+        <option value="$PROJECT_DIR$/src/main/Thread/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classloader/MyMath.java" />
+        <option value="$PROJECT_DIR$/src/main/java.lang/Math.java" />
+        <option value="$PROJECT_DIR$/src/main/java.lang/MyMath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java/lang/MyMath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java/lang/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classloader/Math.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classloader/Myclassloader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/src/lang/String.java" />
+        <option value="$PROJECT_DIR$/src/TestSometing.java" />
+        <option value="$PROJECT_DIR$/src/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/src/java/lang/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/classloader/TestClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java/lang/Math.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/process_GITHUB/ReadDifferFile_Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_GITHUB/ReadDifferFile.java" />
+        <option value="$PROJECT_DIR$/../Desktop/GithubDATA/11-14file descriptor/javafiles/changeline_2011" />
+        <option value="$PROJECT_DIR$/src/main/java/process_GITHUB/ComPareNewOld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_nofilted/NodeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/new_files/2019/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/old_files/2019/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/changeline_2019" />
+        <option value="$PROJECT_DIR$/src/main/java/process_nofilted/ReadDifferFile_Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_SARD/ProcessSARD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_nofilted/ComPareNewOld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_vuldeepecker/ReadDifferFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_vuldeepecker/MethodDecProcess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_vuldeepecker/CompareNewOld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_vuldeepecker/Processfuncbody.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_vuldeepecker/sample" />
+        <option value="$PROJECT_DIR$/src/main/java/process_vuldeepecker/ProcessSARD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_nofilted/SliceGen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_nofilted/ReadDifferFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/process_SARD/CompareNewOld.java" />
+        <option value="F:/AAA随便传递区/vuldeepecker/neg_vul119" />
+        <option value="F:/AAA随便传递区/vuldeepecker/neg_vul119 - 副本" />
+        <option value="F:/AAA随便传递区/vuldeepecker/pos_vul119 - 副本" />
+        <option value="$PROJECT_DIR$/src/main/java/process_GITHUB/SliceGen.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="390" />
+    <option name="width" value="775" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProcessJavaFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProcessJavaFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProcessJavaFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProcessJavaFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProcessJavaFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProcessJavaFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProcessJavaFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProcessJavaFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProcessJavaFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProcessJavaFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="process_GITHUB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProcessJavaFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProcessJavaFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="process_nofilted" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProcessJavaFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557497407628" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/eclipse-cdt-standalone-astparser-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\java\test" />
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\java\java\lang" />
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\java.lang" />
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\java\process_GITHUB" />
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\test\old_files\2009" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="process_nofilted" />
+      <recent name="process_vuldeepecker" />
+      <recent name="process_GITHUB" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\java\process_vuldeepecker" />
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\java\process_nofilted" />
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\java\process_GITHUB" />
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\java" />
+      <recent name="C:\Users\troye sivan\ProcessJavaFile\src\main\test\new_files\2009" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReadDifferFile">
+    <configuration name="ProcessSARD (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="process_vuldeepecker.ProcessSARD" />
+      <module name="ProcessJavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="process_vuldeepecker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessSARD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="process_SARD.ProcessSARD" />
+      <module name="ProcessJavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="process_SARD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadDifferFile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="process_nofilted.ReadDifferFile" />
+      <module name="ProcessJavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="process_nofilted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadDifferFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="process_GITHUB.ReadDifferFile" />
+      <module name="ProcessJavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="process_GITHUB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadDifferFile_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="process_nofilted.ReadDifferFile_Test" />
+      <module name="ProcessJavaFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="process_nofilted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="ProcessJavaFile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ReadDifferFile" />
+      <item itemvalue="Application.ReadDifferFile_Test" />
+      <item itemvalue="Application.ReadDifferFile (1)" />
+      <item itemvalue="Application.ProcessSARD" />
+      <item itemvalue="Application.ProcessSARD (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadDifferFile" />
+        <item itemvalue="Application.ReadDifferFile (1)" />
+        <item itemvalue="Application.ProcessSARD (1)" />
+        <item itemvalue="Application.ProcessSARD" />
+        <item itemvalue="Application.ReadDifferFile_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a95b98-c686-4393-a7ef-49a0b6d72991" name="Default Changelist" comment="" />
+      <created>1552137417297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552137417297</updated>
+      <workItem from="1552137422606" duration="4426000" />
+      <workItem from="1552287975669" duration="47048000" />
+      <workItem from="1552613548929" duration="19879000" />
+      <workItem from="1552650820498" duration="196298000" />
+      <workItem from="1553477198768" duration="22084000" />
+      <workItem from="1553672417007" duration="101000" />
+      <workItem from="1553683558536" duration="90120000" />
+      <workItem from="1554709393248" duration="8168000" />
+      <workItem from="1554880685363" duration="30146000" />
+      <workItem from="1555311505261" duration="2646000" />
+      <workItem from="1555383745536" duration="19484000" />
+      <workItem from="1555491224564" duration="163000" />
+      <workItem from="1555491432338" duration="1550000" />
+      <workItem from="1555493020038" duration="15447000" />
+      <workItem from="1555982272147" duration="10611000" />
+      <workItem from="1556021101694" duration="2757000" />
+      <workItem from="1556116171559" duration="37500000" />
+      <workItem from="1556517115029" duration="10626000" />
+      <workItem from="1556868956024" duration="9034000" />
+      <workItem from="1556971245204" duration="9559000" />
+      <workItem from="1557211465659" duration="1983000" />
+      <workItem from="1557388399728" duration="196000" />
+      <workItem from="1557413154012" duration="9365000" />
+      <workItem from="1557498329636" duration="1670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SolutionTest_numJewelsInStones - 2019.04.11 at 20h 22m 02s.xml">
+      <configuration name="SolutionTest.numJewelsInStones" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2019.04.11 at 20h 22m 21s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_numJewelsInStones - 2019.04.11 at 20h 26m 09s.xml">
+      <configuration name="SolutionTest.numJewelsInStones" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="550861000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1166" height="734" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24729241" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31011608" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.09784412" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.30679932" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.4991708" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26895306" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45273632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44610283" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.6119403" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.4394693" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/ComPareNewOld.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/ComPareNewOld.java</url>
+          <line>510</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/ComPareNewOld.java</url>
+          <line>521</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/ComPareNewOld.java</url>
+          <line>159</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/ComPareNewOld.java</url>
+          <line>227</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/ComPareNewOld.java</url>
+          <line>476</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/SliceGen.java</url>
+          <line>195</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/ComPareNewOld.java</url>
+          <line>319</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/old_files/2009/1.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/SliceGen.java</url>
+          <line>295</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/ComPareNewOld.java</url>
+          <line>380</line>
+          <properties />
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/SliceGen.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/ReadDifferFile_Test.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/ComPareNewOld.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Thread/Func.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Thread/Func.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Thread/Func.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/ComPareNewOld.java</url>
+          <line>306</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/ComPareNewOld.java</url>
+          <line>308</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Thread/Solution.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Thread/Solution.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_GITHUB/ReadDifferFile.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_nofilted/ReadDifferFile_Test.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_SARD/CompareNewOld.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_SARD/CompareNewOld.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_vuldeepecker/CompareNewOld.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/process_nofilted/SliceGen.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="slices.get(0).get(11)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17841">
+          <caret line="1001" column="19" selection-start-line="1001" selection-start-column="19" selection-end-line="1001" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+          <folding>
+            <element signature="e#4026#4027#0" expanded="true" />
+            <element signature="e#4084#4085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/SARD_filesAndSlices/SARD_slices/CWE476/CWE476_NULL_Pointer_Dereference__binary_if_01.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/body/MethodDeclaration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#6225#6226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/stmt/BlockStmt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1561#1562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/stmt/IfStmt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#2001#2002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_nofilted/FileProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/JavaParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+          <folding>
+            <element signature="e#4300#4301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_vuldeepecker/ReadDifferFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_vuldeepecker/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_SARD/ProcessSARD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.sql/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/visitor/EqualsVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="103" column="13" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/visitor/TreeVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#1660#1661#0" expanded="true" />
+            <element signature="e#1736#1737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="276" column="29" selection-start-line="276" selection-start-column="29" selection-end-line="276" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="960" column="13" selection-start-line="960" selection-start-column="13" selection-end-line="960" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/body/VariableDeclarator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_vuldeepecker/MethodDecProcess.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/expr/AssignExpr.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/stmt/Statement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_GITHUB/repeat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_vuldeepecker/CompareNewOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="81" column="12" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_vuldeepecker/sample">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_vuldeepecker/Processfuncbody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80446">
+          <caret line="4308" column="30" selection-start-line="4308" selection-start-column="30" selection-end-line="4308" selection-end-column="30" />
+          <folding>
+            <element signature="e#200691#200692#0" expanded="true" />
+            <element signature="e#200732#200733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/GithubDATA/concurrent/javafiles/url2file_2011">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/visitor/Visitable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="152" column="19" selection-start-line="152" selection-start-column="19" selection-end-line="152" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/Node.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_nofilted/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/visitor/VoidVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="98" column="51" lean-forward="true" selection-start-line="98" selection-start-column="51" selection-end-line="98" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_SARD/CompareNewOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="122" column="44" selection-start-line="122" selection-start-column="44" selection-end-line="122" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_vuldeepecker/ProcessSARD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="18" column="114" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/AAA随便传递区/vuldeepecker/neg_vul119" />
+    <entry file="file://F:/AAA随便传递区/vuldeepecker/neg_vul399" />
+    <entry file="file://F:/AAA随便传递区/vuldeepecker/neg_vul119 - 副本" />
+    <entry file="file://F:/AAA随便传递区/vuldeepecker/pos_vul119 - 副本" />
+    <entry file="file://F:/AAA随便传递区/vuldeepecker/pos_vul399" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_nofilted/ReadDifferFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_nofilted/ComPareNewOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+          <folding>
+            <element signature="method#fenciline#0;class#ComPareNewOld#0" />
+            <element signature="method#findvar#0;class#ComPareNewOld#0" />
+            <element signature="method#findbugvar#0;class#ComPareNewOld#0" />
+            <element signature="method#getParent#0;class#ComPareNewOld#0" />
+            <element signature="method#markLine#0;class#ComPareNewOld#0" />
+            <element signature="method#bugline_del#0;class#ComPareNewOld#0" />
+            <element signature="method#getParentIfstms#0;class#ComPareNewOld#0" />
+            <element signature="method#bugline_add#0;class#ComPareNewOld#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_nofilted/LineVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_GITHUB/ComPareNewOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="79" column="35" lean-forward="true" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+          <folding>
+            <element signature="method#genslice#0;class#ComPareNewOld#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_nofilted/ReadDifferFile_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/NodeList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5862">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#6304#6305#0" expanded="true" />
+            <element signature="e#6350#6351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_nofilted/SliceGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="357" column="3" lean-forward="true" selection-start-line="357" selection-start-column="3" selection-end-line="360" selection-end-column="5" />
+          <folding>
+            <element signature="method#fencimethod#0;class#SliceGen#0" />
+            <element signature="method#half#0;class#SliceGen#0" />
+            <element signature="method#visit#2;class#SliceGen#0" />
+            <element signature="method#opposite_ifcondition#0;class#SliceGen#0" />
+            <element signature="method#visit#6;class#SliceGen#0" />
+            <element signature="method#visit#7;class#SliceGen#0" />
+            <element signature="method#visit#8;class#SliceGen#0" />
+            <element signature="method#visit#9;class#SliceGen#0" />
+            <element signature="method#visit#10;class#SliceGen#0" />
+            <element signature="method#change_var#0;class#SliceGen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_GITHUB/LineVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1673">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.10/javaparser-core-3.6.10.jar!/com/github/javaparser/ast/visitor/VoidVisitorAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_GITHUB/ReadDifferFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="method#getADDandDellist#0;class#ReadDifferFile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/process_GITHUB/SliceGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3344">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProcessJavaFile</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.github.gumtreediff:client:2.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
